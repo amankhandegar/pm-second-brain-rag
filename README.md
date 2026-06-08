@@ -2,7 +2,8 @@
 ### RAG-powered document intelligence built for Product Managers
 
 ![PM Second Brain Chat UI](ChatUI.png)
-![PM Second Brain Chat UI](ChatUI.png) ![PM Second Brain Chat UI](ChatUI.png)
+![PM Second Brain Chat UI](PMSB_Indexing.png) 
+![PM Second Brain Chat UI](ChatUI.png)
 
 ## What this does
 An AI assistant that answers questions about your PM work — 
