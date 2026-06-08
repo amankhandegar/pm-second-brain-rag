@@ -2,6 +2,7 @@
 ### RAG-powered document intelligence built for Product Managers
 
 ![PM Second Brain Chat UI](ChatUI.png)
+![PM Second Brain Chat UI](ChatUI.png) ![PM Second Brain Chat UI](ChatUI.png)
 
 ## What this does
 An AI assistant that answers questions about your PM work — 
@@ -81,3 +82,10 @@ Built by: Aman — Product Manager
 
 Note: This is a personal learning project. Document content 
 used for indexing is mock/anonymised data.
+
+## Workflow Files
+The n8n workflow JSONs are not included in this repository 
+for security reasons and privacy reasons.
+
+The workflow architecture is fully visible in the screenshots 
+above. Happy to discuss implementation details in the comments.
