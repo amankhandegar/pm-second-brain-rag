@@ -3,7 +3,7 @@
 
 ![PM Second Brain Chat UI](ChatUI.png)
 ![PM Second Brain Chat UI](PMSB_Indexing.png) 
-![PM Second Brain Chat UI](ChatUI.png)
+![PM Second Brain Chat UI](PMSB_Query.png)
 
 ## What this does
 An AI assistant that answers questions about your PM work — 
