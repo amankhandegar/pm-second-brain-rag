@@ -1,7 +1,7 @@
 # PM Second Brain — AI Knowledge Assistant
 ### RAG-powered document intelligence built for Product Managers
 
-![PM Second Brain Chat UI](ChatUI.png)
+![PM Second Brain Chat UI](Chat_UI.png)
 ![PM Second Brain Chat UI](PMSB_Indexing.png) 
 ![PM Second Brain Chat UI](PMSB_Query.png)
 
